@@ -6,11 +6,11 @@
 }
 
 main {
-  display: flex;
+  width: 30%;
+  margin: 0 auto;
 }
 section {
   font-family: 'Montserrat';
-  width: 50%;
   margin-top: 20px;
 }
 .info{
